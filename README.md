@@ -23,3 +23,8 @@ a deep learning solution that accurately segments myocardium and scar/fibrosis f
 contrast-enhanced CMR images. Our 3-stage neural network achieves expert-level
 performance, allowing direct calculation of clinical measures. This approach could
 extend to other imaging modalities and patient pathologies
+
+Google Drive:
+https://drive.google.com/drive/folders/1gu_W8LcPIFuNATXeA3iwlvFMOsOTQrPL
+
+
