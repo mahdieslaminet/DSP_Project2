@@ -24,6 +24,10 @@ contrast-enhanced CMR images. Our 3-stage neural network achieves expert-level
 performance, allowing direct calculation of clinical measures. This approach could
 extend to other imaging modalities and patient pathologies
 
+Code explanation video:
+https://drive.google.com/file/d/1Ms_iXoqG8NyqpH8VZh7kUqPhvOQKEPg_/view?usp=drivesdk
+
+
 Google Drive:
 https://drive.google.com/drive/folders/1gu_W8LcPIFuNATXeA3iwlvFMOsOTQrPL
 
